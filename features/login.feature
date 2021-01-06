@@ -9,8 +9,8 @@ Funcionalidade: Login
 
     @smoke @logout
     Cenario: Usuário autenticado
-        Quando faço login com "eu@papito.io" e "123456"
-        Então vejo a seguinte mensagem "Olá, Fernando"
+        Quando faço login com "gui_pissuto@hotmail.com" e "123456"
+        Então vejo a seguinte mensagem "Olá, Guilherme"
 
     @tentativa
     Esquema do Cenário: Tentar logar
